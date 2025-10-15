@@ -44,25 +44,7 @@ https://drive.google.com/file/d/1EEoKrdeY5aPKlEVTgdSsDtiQEs89qkXN/view?usp=shari
 
 ## 🗂️ Folder Structure
 
-```
 
-weather-spa/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── MapSection.jsx          # Map view and click handlers
-│   │   ├── SavedLocations.jsx      # Manage saved locations
-│   │   └── WeatherPanel.jsx        # Current + forecast weather UI
-│   ├── Weather.jsx                 # Main logic, state, and data flow
-│   ├── App.jsx                     # Entry point rendering WeatherSPA
-│   ├── index.css                   # Tailwind + global custom styles
-│   ├── main.jsx / index.js         # React app entry
-│   └── assets/                     # (Optional) For images/icons
-├── package.json
-└── README.md
-
-````
 
 ---
 
