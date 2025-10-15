@@ -11,10 +11,7 @@ This project demonstrates **React state management, API integration, modular arc
 
 ## 🎥 Demo Video
 > 🎬 **Watch Demo:** 
-<video width="800" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1EEoKrdeY5aPKlEVTgdSsDtiQEs89qkXN" type="video/mp4">
- 
-</video>
+  https://drive.google.com/uc?export=download&id=1EEoKrdeY5aPKlEVTgdSsDtiQEs89qkXN" 
 
 ---
 
