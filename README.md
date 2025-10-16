@@ -38,12 +38,7 @@ This project demonstrates React state management, API integration, modular archi
 | Icons | Lucide-react |
 | API | Open-Meteo API |
 | Storage | localStorage |
-| Optional Backend (Future) | Express.js or FastAPI |
-
----
-
-## 🗂️ Folder Structure
-
+| Backend  - Express.js |
 
 
 ---
